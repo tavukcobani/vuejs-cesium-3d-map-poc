@@ -6,6 +6,9 @@
     "build": "vue-tsc --noEmit && vite build",
     "serve": "vite preview"
   },
+  "repository": {
+    "url": "https://github.com/tavukcobani/vuejs-cesium-3d-map-poc.git"
+  },
   "dependencies": {
     "vue": "^3.2.6",
     "cesium": "^1.85.0"
